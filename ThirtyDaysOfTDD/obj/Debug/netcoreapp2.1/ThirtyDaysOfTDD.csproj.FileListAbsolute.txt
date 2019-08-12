@@ -1,0 +1,15 @@
+C:\Users\milom\source\repos\ThirtyDaysOfTDD\obj\Debug\netcoreapp2.1\ThirtyDaysOfTDD.csprojAssemblyReference.cache
+C:\Users\milom\source\repos\ThirtyDaysOfTDD\obj\Debug\netcoreapp2.1\ThirtyDaysOfTDD.csproj.CoreCompileInputs.cache
+C:\Users\milom\source\repos\ThirtyDaysOfTDD\obj\Debug\netcoreapp2.1\ThirtyDaysOfTDD.AssemblyInfoInputs.cache
+C:\Users\milom\source\repos\ThirtyDaysOfTDD\obj\Debug\netcoreapp2.1\ThirtyDaysOfTDD.AssemblyInfo.cs
+C:\Users\milom\source\repos\ThirtyDaysOfTDD\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\milom\source\repos\ThirtyDaysOfTDD\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\milom\source\repos\ThirtyDaysOfTDD\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\milom\source\repos\ThirtyDaysOfTDD\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\milom\source\repos\ThirtyDaysOfTDD\bin\Debug\netcoreapp2.1\ThirtyDaysOfTDD.deps.json
+C:\Users\milom\source\repos\ThirtyDaysOfTDD\bin\Debug\netcoreapp2.1\ThirtyDaysOfTDD.runtimeconfig.json
+C:\Users\milom\source\repos\ThirtyDaysOfTDD\bin\Debug\netcoreapp2.1\ThirtyDaysOfTDD.runtimeconfig.dev.json
+C:\Users\milom\source\repos\ThirtyDaysOfTDD\bin\Debug\netcoreapp2.1\ThirtyDaysOfTDD.dll
+C:\Users\milom\source\repos\ThirtyDaysOfTDD\bin\Debug\netcoreapp2.1\ThirtyDaysOfTDD.pdb
+C:\Users\milom\source\repos\ThirtyDaysOfTDD\obj\Debug\netcoreapp2.1\ThirtyDaysOfTDD.dll
+C:\Users\milom\source\repos\ThirtyDaysOfTDD\obj\Debug\netcoreapp2.1\ThirtyDaysOfTDD.pdb
